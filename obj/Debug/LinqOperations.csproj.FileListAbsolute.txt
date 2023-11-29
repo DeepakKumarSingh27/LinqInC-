@@ -1,0 +1,7 @@
+E:\CSharp\LinqOperations\LinqOperations\bin\Debug\LinqOperations.exe.config
+E:\CSharp\LinqOperations\LinqOperations\bin\Debug\LinqOperations.exe
+E:\CSharp\LinqOperations\LinqOperations\bin\Debug\LinqOperations.pdb
+E:\CSharp\LinqOperations\LinqOperations\obj\Debug\LinqOperations.csproj.AssemblyReference.cache
+E:\CSharp\LinqOperations\LinqOperations\obj\Debug\LinqOperations.csproj.CoreCompileInputs.cache
+E:\CSharp\LinqOperations\LinqOperations\obj\Debug\LinqOperations.exe
+E:\CSharp\LinqOperations\LinqOperations\obj\Debug\LinqOperations.pdb
